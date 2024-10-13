@@ -1,0 +1,1 @@
+Starting this project to improve knowledges about React.js and TypeScript! :)
